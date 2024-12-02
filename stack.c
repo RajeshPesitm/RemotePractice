@@ -13,5 +13,5 @@ int push()
 int pop()
 {
 
-    
+    return stc[top--];
 }
